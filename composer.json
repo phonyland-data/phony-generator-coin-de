@@ -1,6 +1,6 @@
 {
-    "name": "phonyland/generator-data-template",
-    "description": "\ud83d\udd36 Generator Data Template for \ud83d\ude43 Phony Framework",
+    "name": "phonyland/phony-generator-coin-de",
+    "description": "Coin Generator (de) for \ud83d\ude43 Phony Framework",
     "license": "MIT",
     "type": "phony-generator-data",
     "keywords": [
